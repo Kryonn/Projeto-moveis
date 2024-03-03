@@ -5,6 +5,7 @@ Elaboração de uma página de móveis [Figma](https://www.figma.com/file/tPIeuV
 ## 📝 Projeto
 
 Construção da página do zero, seguindo uma prévia com o uso dos elementos visuais.
+
 ![Image](https://github.com/Kryonn/assets/blob/main/image3.png)
 
 ## 🛠️ Construído com
